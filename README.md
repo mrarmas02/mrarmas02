@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+mrarmas02.;Cyberpunk+Full-stack+Developer.;Coding+in+night+mode+only.;Deploying+dreams+in+real-time.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+mrarmas02.;Cyberpunk+Dev+in+Dark+Mode.;Full-stack%2C+Front+to+Back.;Deploying+dreams+into+code.">
 </h1>
 
 <p align="center">
