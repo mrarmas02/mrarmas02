@@ -1,4 +1,6 @@
-<p align = "center">
+
+
+ <p align = "center">
 	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
@@ -30,7 +32,7 @@
 
 <div align="left">
 
-\`\`\`js
+```js
 /**
  *   ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄       ▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
  *  ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌     ▐░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
@@ -61,7 +63,7 @@
  *
  * 🧾 [SYS.LOG :: MODULE ARMAS_V2 BOOT COMPLETE ✓]
  */
-\`\`\`
+```
 
 </div>
 
@@ -175,11 +177,11 @@
   <summary>📊 GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrarmas02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10kartik&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarmas02&layout=compact&theme=tokyonight" alt="Top Languages" />
     <br><br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=10kartik&theme=tokyonight" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrarmas02&theme=tokyonight" alt="GitHub Streak" />
   </p>
 </details>
 
@@ -254,26 +256,28 @@ If you have any questions about **web development**, writing mistake-free **docu
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
+</div>
+
 <div align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;">
-  <a href="https://www.linkedin.com/in/kartik-kapgate/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/alexandruarmas/" target="_blank" title="LinkedIn">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/10kartik" target="_blank" title="GitHub">
+  <a href="https://github.com/mrarmas02" target="_blank" title="GitHub">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
   </a>
-  <a href="http://www.x.com/10kartik" target="_blank" title="X (Twitter)">
+  <a href="http://www.x.com/mrarmas02" target="_blank" title="X (Twitter)">
     <img height="40" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" />
   </a>
-  <a href="https://tiktok.com/@10kartik" target="_blank" title="TikTok">
+  <a href="https://tiktok.com/@mrarmas02" target="_blank" title="TikTok">
     <img height="40" src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" />
   </a>
-  <a href="https://wa.me/+919876543210" target="_blank" title="WhatsApp">
+  <a href="https://wa.me/+40726018217" target="_blank" title="WhatsApp">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" />
   </a>
 </div>
 
 
 ------
-Credit: [Kartik Kapgate](https://github.com/10kartik)
+Credit: [Alexandru Armas](https://github.com/mrarmas02)
 
 Last Edited on: 15/05/2025
