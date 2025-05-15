@@ -11,7 +11,7 @@
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
-<summary>Open profile</summary>
+<summary>Deschide profil</summary>
 
 <br>
 <div>
@@ -24,7 +24,7 @@
 </div>
 
 <details>
-<summary>About me</summary>
+<summary>Despre mine</summary>
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
@@ -32,15 +32,17 @@
 
 ```js
 /**
-// █████╗  ██████╗  ███╗   ███╗
-// ██╔══██╗██╔══██╗ ████╗ ████║
-// ███████║██████╔╝ ██╔████╔██║
-// ██╔══██║██╔══██╗ ██║╚██╔╝██║
-// ██║  ██║██║  ██║ ██║ ╚═╝ ██║
-// ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝     ╚═╝
-
- *
- * @constructor
+ *   ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄       ▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
+ *  ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌     ▐░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+ *  ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌▐░▌░▌   ▐░▐░▌▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ 
+ *  ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌▐░▌ ▐░▌▐░▌▐░▌       ▐░▌▐░▌          
+ *  ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄█░▌▐░▌ ▐░▐░▌ ▐░▌▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ 
+ *  ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌  ▐░▌  ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+ *  ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀█░█▀▀ ▐░▌   ▀   ▐░▌▐░█▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌
+ *  ▐░▌       ▐░▌▐░▌     ▐░▌  ▐░▌       ▐░▌▐░▌       ▐░▌          ▐░▌
+ *  ▐░▌       ▐░▌▐░▌      ▐░▌ ▐░▌       ▐░▌▐░▌       ▐░▌ ▄▄▄▄▄▄▄▄▄█░▌
+ *  ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌
+ *   ▀         ▀  ▀         ▀  ▀         ▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀ 
  * @param {string} location - Locuiește în Timișoara, județul Timiș, România.
  * @param {string} languages - Vorbește fluent română, engleză, germană și franceză.
  * @param {string} jobTitle - Inginer software.
@@ -63,45 +65,47 @@
 </details>
 
 <details>
-<summary>Tools</summary>
+<summary>Unelte</summary>
 <div>
   <p style="display: inline-block;" align="center">
-    <kbd>
-      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Programming Languages</h4></div>
-      <br>
+    <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
+      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Limbaje de Programare</h4></div>
+      <div>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
       <img width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" title="TypeScript"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" title="PHP"/>
-    </kbd>
-    <kbd>
+      </div>
+    </div>
+    <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
       <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Back-end</h4></div>
-      <br>
+      <div>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" title="Django"/>
       <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="Websocket"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" title="Chai"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" title=".NET Core"/>
-    </kbd>
-    <kbd>
-      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Mobile</h4></div>
-      <br>
+      </div>
+    </div>
+    <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
+      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Mobil</h4></div>
+      <div>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" title="SwiftUI"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" title="Flutter"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactnative" title="React Native"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" title="Kotlin"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" alt="xamarin" title="Xamarin"/>
-    </kbd>
-    <kbd>
+      </div>
+    </div>
+    <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
       <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Front-end</h4></div>
-      <br>
+      <div>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="Reactjs"/>
@@ -111,10 +115,11 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" title="Next.js"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" title="Svelte"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" title="Bootstrap"/>
-    </kbd>
-    <kbd>
-      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Database</h4></div>
-      <br>
+      </div>
+    </div>
+    <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
+      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Baze de Date</h4></div>
+      <div>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="Postgres SQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" title="Mongo DB"/>
@@ -124,11 +129,12 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" title="Oracle DB"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" title="SQL Server"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite"/>
-    </kbd>
-    <br><br>
-    <kbd>
-      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">AI & Data Science</h4></div>
-      <br>
+      </div>
+    </div>
+    <br>
+    <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
+      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">AI & Știința Datelor</h4></div>
+      <div>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" title="TensorFlow"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" title="PyTorch"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy"/>
@@ -137,10 +143,11 @@
       <img width="30px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" title="OpenCV"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" title="Jupyter"/>
       <img width="30px" src="https://huggingface.co/favicon.ico" alt="huggingface" title="Hugging Face"/>
-    </kbd>
-    <kbd>
+      </div>
+    </div>
+    <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
       <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">DevOps & Cloud</h4></div>
-      <br>
+      <div>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="git" />
@@ -152,27 +159,30 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache" title="Apache"/>
       <img width="30px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" title="Netlify"/>
       <img width="30px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" title="Vercel"/>
-    </kbd>
-    <kbd>
-      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Operating Systems</h4></div>
-      <br>
+      </div>
+    </div>
+    <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
+      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Sisteme de Operare</h4></div>
+      <div>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/>
       <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
-    </kbd>
-    <kbd>
-      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Command Line</h4></div>
-      <br>
+      </div>
+    </div>
+    <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
+      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Linie de Comandă</h4></div>
+      <div>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" title="bash"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="powershell" title="PowerShell"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" alt="ssh" title="SSH"/>
-    </kbd>
-    <kbd>
-      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Development Tools</h4></div>
-      <br>
+      </div>
+    </div>
+    <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
+      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Unelte de Dezvoltare</h4></div>
+      <div>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"  alt="sublime" title="Sublime"/>
@@ -183,28 +193,31 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" title="Slack"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" title="Yarn"/>
-    </kbd>
-    <kbd>
-      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Game Development</h4></div>
-      <br>
+      </div>
+    </div>
+    <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
+      <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Dezvoltare Jocuri</h4></div>
+      <div>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" title="Unity Engine"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unreal" title="Unreal Engine"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" title="Blender"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="godot" title="Godot Engine"/>
-    </kbd>
-    <kbd>
+      </div>
+    </div>
+    <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
       <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Blockchain</h4></div>
-      <br>
+      <div>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" title="Solidity"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/512px-Ethereum-icon-purple.svg.png" alt="ethereum" title="Ethereum"/>
       <img width="30px" src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="bitcoin" title="Bitcoin"/>
-    </kbd>
+      </div>
+    </div>
   </p>
 </div>
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>Statistici GitHub</summary>
   <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
@@ -223,42 +236,42 @@
 </details>
 
 <details>
-  <summary>Quote</summary>
+  <summary>Citat</summary>
   <br>
   <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
+    "Un bug nu este niciodată doar o greșeală. Reprezintă ceva mai mare. O eroare de gândire. Care te face cine ești."
     <br><strong>Mr. Robot - Elliot Alderson</strong>
   </blockquote>
 </details>
 
 <details>
-  <summary>Free DOSE hit</summary>
+  <summary>Doză gratuită de DOSE</summary>
   <br>
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
+  <small><i>DOSE (dopamină, oxitocină, serotonină și endorfină), reîmprospătează pagina dacă doza a fost ineficientă.</i></small>
   <br>
   <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
 </details>
 
 <details>
-<summary>What can I do for you?</summary>
+<summary>Ce pot face pentru tine?</summary>
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
 
 [//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
 
-## Let's Work on Your Project Together!
+## Hai să lucrăm împreună la proiectul tău!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:kkapgate5@gmail.com">contact me by email</a>, I won't bite, I promise.
+Dacă ai întrebări despre dezvoltarea web, documentație fără greșeli sau IA, nu ezita să <a href="mailto:kkapgate5@gmail.com">mă contactezi prin email</a>, nu mușc, promit.
 
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+## Nu e perfect, nu-i așa?
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
+**<img alt="Feedback" src="https://img.shields.io/badge/Întreabă-orice-1abc9c.svg">**
 
-<blockquote>“I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.”
+<blockquote>"Cred că este foarte important să ai un feedback constant, unde te gândești mereu la ceea ce ai făcut și cum ai putea să o faci mai bine."
 <br><strong>– Elon Musk</strong></blockquote>
 
   </td>
@@ -280,4 +293,4 @@ If you have any questions about web development, writing mistake-free documentat
 ------
 Credit: [Alexandru Armaș](https://github.com/alexandruarmas)
 
-Last Edited on: 15/05/2025
+Ultima editare: 15/05/2025
