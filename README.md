@@ -1,59 +1,40 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+mrarmas02.;Cyberpunk+Full-stack+Developer.;Code+is+my+city...;Deploying+dreams+in+real-time.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+mrarmas02.;Cyberpunk+Full-stack+Developer.;Coding+in+night+mode+only.;Deploying+dreams+in+real-time.">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="cyber hacker"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" />
 </p>
 
 ---
 
 ### 🧠 About Me
-- ⚔️ Senior full-stack dev with futuristic vibes  
-- 💻 Fluent in code like it's a second language  
-- 🚀 Love shipping fast and refactoring smart  
-- 🌐 Building systems that look like magic  
-- 🌃 Location: Timisoara, Romania `🌍`  
+
+- 🛠 Full-stack dev from Timișoara, Romania  
+- 🚀 Building APIs, UIs, and everything between  
+- 🧪 Always learning, always tweaking  
+- ⚔️ I treat coding like an art and debugging like a fight
 
 ---
 
-### ⚙️ Tech Arsenal
+### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,tailwind,mongodb,postgres,docker,linux,bash,git,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,mongodb,postgres,docker,linux,git,vscode&perline=8" />
 </p>
 
 ---
 
-### 📈 GitHub Stats & Streaks
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrarmas02&theme=tokyonight&show_icons=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarmas02&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrarmas02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarmas02&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrarmas02&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrarmas02&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🔄 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-_Add this with GitHub Actions: [GitHub Activity Readme](https://github.com/jamesgeorge007/github-activity-readme)_
-
----
-
-### 🌤️ Live Weather — Timișoara, Romania
-
-<p align="center">
-  <img src="https://github-readme-weather.vercel.app/api?location=Timisoara&units=metric" />
-</p>
-
-_Optional live weather: [Setup guide](https://github.com/lowlighter/metrics#-plugins)_
 
 ---
 
@@ -63,17 +44,21 @@ _Optional live weather: [Setup guide](https://github.com/lowlighter/metrics#-plu
 
 ---
 
-### 🚀 Pinned Projects
+### 🚀 Featured Projects
 
-[![ReadMe Generator](https://github-readme-stats.vercel.app/api/pin/?username=mrarmas02&repo=your-best-repo&theme=radical)](https://github.com/mrarmas02/your-best-repo)
-[![Another Project](https://github-readme-stats.vercel.app/api/pin/?username=mrarmas02&repo=second-project&theme=radical)](https://github.com/mrarmas02/second-project)
+- 🔥 [My Coolest Project](https://github.com/mrarmas02/my-coolest-project)  
+  `React + Node + MongoDB` — A fast, secure, responsive web app.
+
+- ⚡ [Speed-CLI Tool](https://github.com/mrarmas02/speed-cli)  
+  `Node.js` — A developer command line utility with power modes.
 
 ---
 
-### 🛠️ System Log
+### 🛠️ System Status
 
 ```bash
-> Initializing neural code cluster...
-> Syncing weather data from Romania...
-> Updating stats in real time...
-> Ready for deployment.
+> Booting cyberpunk profile...
+> Loading dark mode...
+> Weather: Ignored.
+> Music: Unplugged.
+> Project mode: ENGAGED 🔥
