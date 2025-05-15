@@ -43,7 +43,7 @@
  *  ▐░▌       ▐░▌▐░▌      ▐░▌ ▐░▌       ▐░▌▐░▌       ▐░▌ ▄▄▄▄▄▄▄▄▄█░▌
  *  ▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌
  *   ▀         ▀  ▀         ▀  ▀         ▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀ 
- * @param {string} location - Locuiește în Timișoara, județul Timiș, România.
+  * @param {string} location - Locuiește în Timișoara, județul Timiș, România.
  * @param {string} languages - Vorbește fluent română, engleză, germană și franceză.
  * @param {string} jobTitle - Inginer software.
  * @param {string} specialization - Specializat în dezvoltarea completă a sistemelor Backend și aplicațiilor iOS.
@@ -287,6 +287,9 @@ Dacă ai întrebări despre dezvoltarea web, documentație fără greșeli sau I
 
 <div align=center>
  <a href="https://www.linkedin.com/in/alexandruarmas/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+ <a href="https://github.com/mrarmas02" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub" /></a>
+ <a href="https://www.x.com/mrarmas02" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=" alt="X" /></a>
+ <a href="https://tiktok.com/@mrarmas02" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=TikTok&color=000000&logo=TikTok&logoColor=FFFFFF&label=" alt="TikTok" /></a>
 <a href="mailto:contact@alexandruarmas.ro?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
 
