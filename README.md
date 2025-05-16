@@ -252,35 +252,16 @@
     <summary style="font-family: 'Black Ops One', cursive; font-weight: bold; color: #EDE3D2;">Doză gratuită de DOSE</summary>
     <br>
     <small><i>DOSE (dopamină, oxitocină, serotonină și endorfină), reîmprospătează pagina dacă doza a fost ineficientă.</i></small>
-    <br>
     <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
   </details>
 
   <details>
   <summary style="font-family: 'Black Ops One', cursive; font-weight: bold; color: #EDE3D2;">Ce pot face pentru tine?</summary>
-  <table style="border: none">
-    <tr>
-    <td width="50%" valign="top">
-
-  [//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
-
-  ## Hai să lucrăm împreună la proiectul tău!
-
-  Dacă ai întrebări despre dezvoltarea web, documentație fără greșeli sau IA, nu ezita să <a href="mailto:kkapgate5@gmail.com">mă contactezi prin email</a>, nu mușc, promit.
-
-    </td>
-    <td width="50%" valign="top">
-
-  ## Nu e perfect, nu-i așa?
-
-  **<img alt="Feedback" src="https://img.shields.io/badge/Întreabă-orice-1abc9c.svg">**
-
-  <blockquote>"Cred că este foarte important să ai un feedback constant, unde te gândești mereu la ceea ce ai făcut și cum ai putea să o faci mai bine."
-  <br><strong>– Elon Musk</strong></blockquote>
-
-    </td>
-    </tr>
-  </table>
+  
+| | |
+|---|---|
+| <div align="left"><h2>Hai să lucrăm împreună la proiectul tău!</h2><p>Dacă ai întrebări despre dezvoltarea web, documentație fără greșeli sau IA, nu ezita să <a href="mailto:kkapgate5@gmail.com">mă contactezi prin email</a>, nu mușc, promit.</p></div> | <div align="left"><h2>Nu e perfect, nu-i așa?</h2><p><img alt="Feedback" src="https://img.shields.io/badge/Întreabă-orice-1abc9c.svg"></p><blockquote>"Cred că este foarte important să ai un feedback constant, unde te gândești mereu la ceea ce ai făcut și cum ai putea să o faci mai bine."<br><strong>– Elon Musk</strong></blockquote></div> |
+  
   </details>
 
   </details>
