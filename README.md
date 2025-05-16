@@ -1,17 +1,50 @@
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<!-- Pokémon Trainer Card -->
+<table align="center" style="border: 3px solid #000; border-radius: 15px; background: linear-gradient(135deg, #eee 0%, #ddd 100%); padding: 15px; margin-bottom: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/duiker101/pokemon-type-svg/master/icons/pokeball.svg" width="80" alt="Pokéball"/>
+      <h2 style="margin: 10px 0; font-family: 'Press Start 2P', cursive; color: #333;">TRAINER CARD</h2>
+      <div style="display: flex; align-items: center; justify-content: center; margin: 15px 0;">
+        <img src="https://komarev.com/ghpvc/?username=10kartik&style=for-the-badge&color=FF0000&logoColor=FFFFFF&labelColor=000000&label=Trainer+Visits" alt="Profile Views"/>
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 15px 0;">
+        <img src="https://img.shields.io/github/followers/10kartik?style=for-the-badge&color=FF0000&logo=github&logoColor=FFFFFF&labelColor=000000&label=Poké+Friends" alt="GitHub Followers"/>
+        <img src="https://img.shields.io/github/stars/10kartik?style=for-the-badge&color=FF0000&logo=github&logoColor=FFFFFF&labelColor=000000&label=Star+Badges" alt="GitHub Stars"/>
+      </div>
+      <!-- Gym Badges Row -->
+      <div style="display: flex; justify-content: center; margin: 15px 0;">
+        <img src="https://archives.bulbagarden.net/media/upload/d/dd/Boulder_Badge.png" width="30" alt="Boulder Badge" style="margin: 0 5px;"/>
+        <img src="https://archives.bulbagarden.net/media/upload/9/9c/Cascade_Badge.png" width="30" alt="Cascade Badge" style="margin: 0 5px;"/>
+        <img src="https://archives.bulbagarden.net/media/upload/b/b5/Thunder_Badge.png" width="30" alt="Thunder Badge" style="margin: 0 5px;"/>
+        <img src="https://archives.bulbagarden.net/media/upload/2/22/Rainbow_Badge.png" width="30" alt="Rainbow Badge" style="margin: 0 5px;"/>
+        <img src="https://archives.bulbagarden.net/media/upload/2/24/Earth_Badge.png" width="30" alt="Earth Badge" style="margin: 0 5px;"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrarmas02/mrarmas02/blob/output/github-snake-dark.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mrarmas02/mrarmas02/blob/output/github-snake.svg" />
+	  <img alt="GitHub Contribution Snake Animation" src="https://github.com/mrarmas02/mrarmas02/blob/output/ocean.gif" />
+	</picture>
 </p>
 
 <div align="center">
 
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
-
-<details>
-<summary>Deschide profil</summary>
+<img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball" style="margin-bottom: -10px;">
+<style>
+  details[open] summary .arrow {
+    transform: rotate(90deg);
+  }
+</style>
+<details align="center">
+<summary align="center" style="margin-top: -5px; display: inline-block; cursor: pointer; font-weight: bold; color: #EDE3D2; font-family: 'Black Ops One', cursive;">
+  <span class="arrow" style="display: inline-block; font-size: 14px; margin-right: 5px; color: #CDC6BD; width: 16px; height: 16px; text-align: center; line-height: 16px; transition: transform 0.3s;">➤</span>
+  Deschide profil
+</summary>
 
 <br>
 <div>
@@ -19,12 +52,12 @@
       <img height="200" alt="Avatar photo of KK10" src="https://github.com/user-attachments/assets/64c2369d-3516-4b0d-add8-fb44f8cd7694" alt="Avatar photo of KK10">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&width=435&lines=Hey%2C+I+am+Alexandru++Armas;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Hardware;iOS+Developer;Fortnite+and+Coding+Lover;Full-Stack+Developer;READY+FOR+HIRE" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&width=435&center=true&lines=Hey%2C+I+am+Alexandru++Armas;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Hardware;iOS+Developer;Fortnite+and+Coding+Lover;Full-Stack+Developer;READY+FOR+HIRE" alt="Typing SVG" /></a>
   </div>
 </div>
 
 <details>
-<summary>Despre mine</summary>
+<summary style="font-family: 'Black Ops One', cursive; font-weight: bold; color: #EDE3D2;">Despre mine</summary>
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
@@ -65,7 +98,7 @@
 </details>
 
 <details>
-<summary>Unelte</summary>
+<summary style="font-family: 'Black Ops One', cursive; font-weight: bold; color: #EDE3D2;">Unelte</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
@@ -83,8 +116,8 @@
       <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Back-end</h4></div>
       <div>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" title="Django"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server" style="filter: invert(1);"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" title="Django" style="filter: invert(1);"/>
       <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
@@ -114,7 +147,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" title="Sass"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" title="Next.js"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" title="Svelte"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" title="Bootstrap"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" title="Bootstrap" style="filter: invert(1);"/>
       </div>
     </div>
     <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
@@ -148,7 +181,7 @@
     <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
       <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">DevOps & Cloud</h4></div>
       <div>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
+      <img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" style="filter: brightness(1.5);"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="git" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" title="Docker"/>
@@ -158,7 +191,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" title="Jenkins"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache" title="Apache"/>
       <img width="30px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" title="Netlify"/>
-      <img width="30px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" title="Vercel"/>
+      <img width="30px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" title="Vercel" style="filter: invert(1);"/>
       </div>
     </div>
     <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
@@ -167,7 +200,7 @@
       <img width="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/>
+      <img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS" style="filter: invert(1);"/>
       <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
       </div>
     </div>
@@ -199,7 +232,7 @@
       <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Dezvoltare Jocuri</h4></div>
       <div>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" title="Unity Engine"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unreal" title="Unreal Engine"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="unreal" title="Unreal Engine" style="filter: invert(1);"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" title="Blender"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="godot" title="Godot Engine"/>
       </div>
@@ -207,7 +240,7 @@
     <div style="display: inline-block; background: transparent; border: none; margin: 5px;">
       <div align="center"><h4 style="text-shadow: 1px 1px 2px #888;">Blockchain</h4></div>
       <div>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" title="Solidity"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" title="Solidity" style="filter: invert(1);"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/512px-Ethereum-icon-purple.svg.png" alt="ethereum" title="Ethereum"/>
       <img width="30px" src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="bitcoin" title="Bitcoin"/>
       </div>
@@ -217,7 +250,7 @@
 </details>
 
 <details>
-  <summary>Statistici GitHub</summary>
+  <summary style="font-family: 'Black Ops One', cursive; font-weight: bold; color: #EDE3D2;">Statistici GitHub</summary>
   <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
@@ -225,7 +258,7 @@
 </details>
 
 <details>
-  <summary>Contribuții Open Source</summary>
+  <summary style="font-family: 'Black Ops One', cursive; font-weight: bold; color: #EDE3D2;">Contribuții Open Source</summary>
   <br>
   <ul>
     <li><strong>MDN Docs - Documentația oficială JavaScript:</strong> Am contribuit la îmbunătățirea și menținerea documentației oficiale JavaScript pe MDN Web Docs.</li>
@@ -236,16 +269,16 @@
 </details>
 
 <details>
-  <summary>Citat</summary>
+  <summary style="font-family: 'Black Ops One', cursive; font-weight: bold; color: #EDE3D2;">Citat</summary>
   <br>
   <blockquote>
     "Un bug nu este niciodată doar o greșeală. Reprezintă ceva mai mare. O eroare de gândire. Care te face cine ești."
-    <br><strong>Mr. Robot - Elliot Alderson</strong>
+    <br><strong>Dl. Robot - Elliot Alderson</strong>
   </blockquote>
 </details>
 
 <details>
-  <summary>Doză gratuită de DOSE</summary>
+  <summary style="font-family: 'Black Ops One', cursive; font-weight: bold; color: #EDE3D2;">Doză gratuită de DOSE</summary>
   <br>
   <small><i>DOSE (dopamină, oxitocină, serotonină și endorfină), reîmprospătează pagina dacă doza a fost ineficientă.</i></small>
   <br>
@@ -253,7 +286,7 @@
 </details>
 
 <details>
-<summary>Ce pot face pentru tine?</summary>
+<summary style="font-family: 'Black Ops One', cursive; font-weight: bold; color: #EDE3D2;">Ce pot face pentru tine?</summary>
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
