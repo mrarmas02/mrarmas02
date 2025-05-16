@@ -1,33 +1,21 @@
-<!-- Pokémon Trainer Card -->
-<table align="center" style="border: 3px solid #000; border-radius: 15px; background: linear-gradient(135deg, #eee 0%, #ddd 100%); padding: 15px; margin-bottom: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/duiker101/pokemon-type-svg/master/icons/pokeball.svg" width="80" alt="Pokéball"/>
-      <h2 style="margin: 10px 0; font-family: 'Press Start 2P', cursive; color: #333;">TRAINER CARD</h2>
-      <div style="display: flex; align-items: center; justify-content: center; margin: 15px 0;">
-        <img src="https://komarev.com/ghpvc/?username=10kartik&style=for-the-badge&color=FF0000&logoColor=FFFFFF&labelColor=000000&label=Trainer+Visits" alt="Profile Views"/>
-      </div>
-      <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 15px 0;">
-        <img src="https://img.shields.io/github/followers/10kartik?style=for-the-badge&color=FF0000&logo=github&logoColor=FFFFFF&labelColor=000000&label=Poké+Friends" alt="GitHub Followers"/>
-        <img src="https://img.shields.io/github/stars/10kartik?style=for-the-badge&color=FF0000&logo=github&logoColor=FFFFFF&labelColor=000000&label=Star+Badges" alt="GitHub Stars"/>
-      </div>
-      <!-- Gym Badges Row -->
-      <div style="display: flex; justify-content: center; margin: 15px 0;">
-        <img src="https://archives.bulbagarden.net/media/upload/d/dd/Boulder_Badge.png" width="30" alt="Boulder Badge" style="margin: 0 5px;"/>
-        <img src="https://archives.bulbagarden.net/media/upload/9/9c/Cascade_Badge.png" width="30" alt="Cascade Badge" style="margin: 0 5px;"/>
-        <img src="https://archives.bulbagarden.net/media/upload/b/b5/Thunder_Badge.png" width="30" alt="Thunder Badge" style="margin: 0 5px;"/>
-        <img src="https://archives.bulbagarden.net/media/upload/2/22/Rainbow_Badge.png" width="30" alt="Rainbow Badge" style="margin: 0 5px;"/>
-        <img src="https://archives.bulbagarden.net/media/upload/2/24/Earth_Badge.png" width="30" alt="Earth Badge" style="margin: 0 5px;"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- Simple Pokémon Stats -->
+<p align="center">
+  <a href="https://github.com/mrarmas02"><img src="https://raw.githubusercontent.com/duiker101/pokemon-type-svg/master/icons/pokeball.svg" width="60" alt="Pokéball"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TRAINER+VISITS&color=555555&logoColor=FFFFFF&labelColor=000000&label=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxMnM5LTEwIDE4IDB2NmMtOS0xMC0xOCAwLTEyIi8+PHBhdGggZD0iTTIxIDEyYzAgMS4xLS45IDItMiAycy0yLS45LTItMiAuOS0yIDItMiAyIC45IDIgMnoiLz48L3N2Zz4=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=37,478&color=FF0000&logoColor=FFFFFF&label=" alt="Profile Views"/>
+  <a href="https://github.com/mrarmas02?tab=followers"><img src="https://img.shields.io/github/followers/mrarmas02?style=for-the-badge&color=blue&label=GITHUB FOLLOWERS&logo=github&labelColor=000000" alt="GitHub Followers"/></a>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=STAR+BADGES&color=555555&logoColor=FFFFFF&labelColor=000000&label=&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWdvbiBwb2ludHM9IjEyIDIgMTUuMDkgOC4yNiAyMiA5LjI3IDE3IDE0LjE0IDE4LjE4IDIxLjAyIDEyIDE3Ljc3IDUuODIgMjEuMDIgNyAxNC4xNCAyIDkuMjcgOC45MSA4LjI2IDEyIDIiLz48L3N2Zz4=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=25&color=FF0000&logoColor=FFFFFF&label=" alt="GitHub Stars"/>
+</p>
 
 <p align="center">
 	<picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrarmas02/mrarmas02/blob/output/github-snake-dark.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mrarmas02/mrarmas02/blob/output/github-snake.svg" />
-	  <img alt="GitHub Contribution Snake Animation" src="https://github.com/mrarmas02/mrarmas02/blob/output/ocean.gif" />
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrarmas02/mrarmas02/output/github-snake-dark.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrarmas02/mrarmas02/output/github-snake.svg" />
+	  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mrarmas02/mrarmas02/output/github-snake-dark.svg" />
 	</picture>
 </p>
 
@@ -35,15 +23,10 @@
 
 
 <img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball" style="margin-bottom: -10px;">
-<style>
-  details[open] summary .arrow {
-    transform: rotate(90deg);
-  }
-</style>
+<!-- GitHub doesn't support style tags in markdown -->
 <details align="center">
 <summary align="center" style="margin-top: -5px; display: inline-block; cursor: pointer; font-weight: bold; color: #EDE3D2; font-family: 'Black Ops One', cursive;">
-  <span class="arrow" style="display: inline-block; font-size: 14px; margin-right: 5px; color: #CDC6BD; width: 16px; height: 16px; text-align: center; line-height: 16px; transition: transform 0.3s;">➤</span>
-  Deschide profil
+Deschide profil
 </summary>
 
 <br>
@@ -323,10 +306,11 @@ Dacă ai întrebări despre dezvoltarea web, documentație fără greșeli sau I
  <a href="https://github.com/mrarmas02" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub" /></a>
  <a href="https://www.x.com/mrarmas02" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=X&logoColor=FFFFFF&label=" alt="X" /></a>
  <a href="https://tiktok.com/@mrarmas02" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=TikTok&color=000000&logo=TikTok&logoColor=FFFFFF&label=" alt="TikTok" /></a>
-<a href="mailto:contact@alexandruarmas.ro?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a href="mailto:contact@alexandruarmas.ro?subject=Hi%20Alexandru%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
 
-------
-Credit: [Alexandru Armaș](https://github.com/alexandruarmas)
+<hr>
+
+Credit: [Alexandru Armaș](https://github.com/mrarmas02)
 
 Ultima editare: 15/05/2025
